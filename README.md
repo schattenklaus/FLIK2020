@@ -7,10 +7,11 @@ This is the course material webpage for the TU Dresden FLIK module: Human-Machin
 
 
 
-### Day 1:  What can it do? (Practical Part), 2 - 6pm
+### Day 1:  Basics 
+- Introduction 
+- Notebook: Training your first Neural Network
 
-
-### Day 2:  How did it do that? (Theoretical Part), 9 - 5/6pm
+### Day 2:  How did it do that? 
 
 
 
