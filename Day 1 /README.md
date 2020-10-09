@@ -12,3 +12,5 @@ The material will cover the following topics:
 - IMDB
 - Boston Housing Prices
 - Cifar10
+
+Will this day will discuss important phenomena like Overfitting and how to counteract them.
