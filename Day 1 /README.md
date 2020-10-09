@@ -1,27 +1,14 @@
-# FLiK 2020 Introduction to Deep Learning
-
+# Day 1: From Python to your first Neural Networks
 This is the course material webpage for the TU Dresden FLIK module: Human-Machine interaction in Industrial production systems, to take place in Oktober 2020.
 
+The material will cover the following topics:
 
-## Agenda
-
-
-
-### Day 1:  What can it do? (Practical Part), 2 - 6pm
+*Python 
+*Neural Networks without Keras
 
 
-### Day 2:  How did it do that? (Theoretical Part), 9 - 5/6pm
-
-
-
-
-### Day 3 Morning: 9 - 12am
-
-
-
-### Day 3 Afternoon: So what else can it do? (Advanced Cutting Edge Part) 1-6pm
-
-
-
-### Day 4 : Do it your self hack day
-
+*Neural Netzworks with Keras:
+- Fashion Mnist
+- IMDB
+- Boston Housing Prices
+- Cifar10
