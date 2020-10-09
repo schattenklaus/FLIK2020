@@ -3,14 +3,12 @@ This is the course material webpage for the TU Dresden FLIK module: Human-Machin
 
 The material will cover the following topics:
 
-*Python 
-*Neural Networks without Keras
-
-
-*Neural Netzworks with Keras:
-- Fashion Mnist
-- IMDB
-- Boston Housing Prices
-- Cifar10
+-Python 
+-Neural Networks without Keras
+-Neural Netzworks with Keras:
+    - Fashion Mnist
+    - IMDB
+    - Boston Housing Prices
+    - Cifar10
 
 Will this day will discuss important phenomena like Overfitting and how to counteract them.
