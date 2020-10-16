@@ -11,6 +11,4 @@ Today, the material will cover the following topics:
    - Boston Housing Prices
    - Cifar10
    
-- Convolutional Neural Networks
-
 We will also discuss important phenomena like Overfitting and how to counteract them.
