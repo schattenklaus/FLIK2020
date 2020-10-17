@@ -5,7 +5,7 @@ Today, the material will cover the following topics:
 
 - Python 
 - Neural Networks without Keras     
-- Neural Netzworks with Keras:     
+- Neural Networks with Keras:     
    - Fashion Mnist
    - IMDB
    - Boston Housing Prices
