@@ -4,8 +4,10 @@ This is the course material webpage for the TU Dresden FLIK module: Human-Machin
 
 Today, the material will cover the following topics:
 
-Recurrent Neural Networks
-GAN
-Autoencoder/VAE
+- Convolutional Neuronal Networks 
+- BatchNorm
+- Activation Maps
+- CAM/GradCam
+
 
    

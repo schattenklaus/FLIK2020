@@ -3,14 +3,13 @@ This is the course material webpage for the TU Dresden FLIK module: Human-Machin
 
 Today, the material will cover the following topics:
 
-Introduction 
-HPC and GIT
-Jupyter Notebooks
+- Introduction 
+- HPC and GIT
+- Jupyter Notebooks
 
-Python Basics
-Neural Networks with Keras
-Keras Basics
-MLP
+- Python Basics
+- Neural Networks with Keras
+- Keras Basics
+- MLP
+- Overfitting and Regularization
 
-   
-We will also discuss important phenomena like Overfitting and how to counteract them.
